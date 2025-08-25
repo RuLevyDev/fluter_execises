@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class ReassWidged extends StatefulWidget {
+  const ReassWidged({super.key});
+
   @override
   State<ReassWidged> createState() => _ReassWidgetState();
 }
